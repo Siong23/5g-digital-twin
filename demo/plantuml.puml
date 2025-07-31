@@ -1,0 +1,49 @@
+@startuml
+title 5G Digital Twin – Demo Workflow
+
+actor Presenter
+participant "Real UE\n(Smartphone/PC)" as RealUE
+participant "Physical Network\n(srsRAN + Open5GS)" as Physical5G
+participant "Twinning Agent\n(Physical Side)" as AgentPhysical
+participant "MQTT Broker" as MQTT
+participant "Twinning Agent\n(Digital Side)" as AgentDigital
+participant "Digital Twin\n(UERANSIM + Open5GS)" as Twin5G
+participant "Monitoring\n(Prometheus/Grafana)" as Monitoring
+participant "AI/Analytics Engine" as AIEngine
+
+== System Boot ==
+Presenter -> Physical5G : Start 5G SA components
+Presenter -> Twin5G : Start digital twin simulation
+Presenter -> AgentPhysical : Launch agent
+Presenter -> AgentDigital : Launch agent
+
+== UE Registration ==
+RealUE -> Physical5G : Attach and Register
+Physical5G -> AgentPhysical : Update state
+AgentPhysical -> MQTT : Publish UE session data
+MQTT -> AgentDigital : Deliver session data
+AgentDigital -> Twin5G : Mirror UE session
+
+== Data Session ==
+RealUE -> Physical5G : Start data session
+Physical5G -> AgentPhysical : Send traffic stats
+AgentPhysical -> MQTT : Publish telemetry
+MQTT -> AgentDigital : Deliver telemetry
+AgentDigital -> Twin5G : Simulate data session
+
+== Monitoring ==
+Physical5G -> Monitoring : Push metrics
+Twin5G -> Monitoring : Push metrics
+Monitoring -> Presenter : Display dashboards
+
+== Optional Closed-Loop Control ==
+Monitoring -> AIEngine : Analyze KPIs
+AIEngine -> MQTT : Send control command
+MQTT -> AgentPhysical : Deliver command
+AgentPhysical -> Physical5G : Apply config changes
+
+== Wrap-Up ==
+Presenter -> Monitoring : Show graphs/comparison
+Presenter -> AIEngine : Show AI analysis (if any)
+
+@enduml
