@@ -1,5 +1,3 @@
-# Milestones
-
 # Introduction
 
 The project I been doing is developing a Network Digital Twin (NDT). NDT is a virtual clone of a physical network that capturing its architecture, components, and real-time state. NDT is important as it provide a safe, risk-free environment for simulating, analyzing, and optimizing network performance before making change on the live network.
@@ -52,6 +50,7 @@ Apart from giving them unique port, it is also important to make change inside t
 
 After we have done with the configuration of 5G SA NFs, we will move to our RAN, it is very simple to configure the RAN using the preset configuration file given when installing UERANSIM, all it need is just some simple changes:
 
+open5gs-gnb.yaml
 ```
 --- mcc: '999'          # Mobile Country Code value
 --- mnc: '70'           # Mobile Network Code value (2 or 3 digits)
@@ -89,6 +88,7 @@ All it need to do is make change on mcc and mnc, it is ok to use the default set
 
 Moving on from gNB, you will need to create a UE to simulate connection, similar to gNB configuration, the file are also prepared when installing UERANSIM and just need to make some simple change:
 
+open5gs-ue.yaml
 ```
 # IMSI number of the UE. IMSI = [MCC|MNC|MSISDN] (In total 15 digits)
 --- supi: 'imsi-999700000000001'
@@ -182,6 +182,7 @@ Like gNB, the mcc and mnc were changed to '001' and '01', the first 5 or 6 digit
 ### Building gNB and UE
 
 After we done with the configuration of gNB and UE, it is time for us to build it. To build the gnb, you just need to type the following command:
+
 ```
 cd/UERANSIM
 ./nr-gnb -c ../config/your_gnb_filename.yaml
@@ -214,3 +215,60 @@ sudo curl --interface uesimtun0 google.com
 ## Summary
 
 In summary, the first milestone of this project is to create a functional network digital twin, after successfully created the network digital twin, I will be moving to creating the twinning agent for both physical and digital side components, as well as UE mirroring will be implemented afterward.
+
+## Milestone 2
+
+### Target goal
+
+To develop twinning agent for physical testbed and virtual testbed and connect both of them using Mosquitto MQTT, Eclipse Mosquitto. The use of twinning agent is to ensure there is a communication link between both testbed. 
+
+In this milestone stage, the work completed were automize UE registration, synchronize traffic data, and create monitoring tools, these combined are the concept of twinning agent. Each work progress will be explain in details later. The whole procress is necessary as it is needed for achieving ZeroTouch Network & Service Management (ZSM). 
+
+### UE Registration
+
+To start with recording the UE Register, we need to start both twinning agent on the testbeds, with main.py running on the physical Open5GS server to be the MQTT Broker and digital_twin_listener_Open5GS.py and digital_twin_listner_UERANSIM.py running on their own machine to act as a MQTT Receiver. When physical Open5GS have recorded a subscriber data inside its database, it will convert the contents into a snapshot saved in json file and sent to the receiver, this process is done every 1 minute. For NDT Open5GS when it receive the subscribers snapshot json it will read the content inside and insert the details into the database so subscriber details like imsi, key, opc, etc. will also be duplicated to NDT Open5GS database from physical Open5GS database. For NDT UERANSIM, it will generate the UE.yaml files based on the subscriber snapshot json it received, the yaml file generated are exactly the same based on the template given in UERANSIM WIKI. Then after the UE creation it will give a 30 seconds delay to bootup each UE to avoid conflicting in assigning IP to each UE.
+
+So to use it, user will first enter their imsi into physical Open5GS database through the Open5GS webui so the network will recognize the UE and clone the details in NDT Open5GS database, then connect the physical UE to the RAN (srsRAN), when connection is established, it will also tell the UE created in NDT UERANSIM to boot up the UE with the same imsi. Thus, the UE mirrored session is established.
+
+### Traffic Data
+
+After the UE mirrored session is established, user can start with some simple data traffic test like iperf3 or ping, the MQTT broker will then sent the process to the listener and it will automatically translate the process that is recognized by the UERANSIM UE, for iperf3 it will be translated to run using nr-binder instead, and for ping it will bind the uesimtunX to the targeted IP. Currently both process are directed to their personal Open5GS to achieve synchronized process, but the result will be different due to the application on both testbed are in a different environment setup.
+
+### Monitoring 
+
+To achieve this, the tools used for the visualizing the metrics is the combination of Prometheus and Grafana. Each machine (mainly RAN and Open5GS Server) were installed with Node Exporter to retrieve all metrics inside the machine and Prometheus is used to retrieve all the metrics from Node Exporter into it. To allow Prometheus to retrieve metrics from Node Exporter, you will need to create prometheus.yml file in /etc/prometheus directory, the sample of prometheus.yml is like this:
+
+prometheus.yml
+```
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: "physical"
+    static_configs:
+      - targets: ["192.168.0.190:9100"] # Physical Open5GS
+        labels:
+          env: "physical"
+          role: "open5gs"
+      - targets: ["192.168.0.126:9100"] # Physical gNB
+        labels:
+          env: "physical"
+          role: "gnb"
+
+  - job_name: "ndt"
+    static_configs:
+      - targets: ["192.168.0.115:9100"] # NDT Open5GS
+        labels:
+          env: "ndt"
+          role: "open5gs"
+      - targets: ["192.168.0.189:9100"] # NDT UERANSIM gNB
+        labels:
+          env: "ndt"
+          role: "gnb"
+```
+
+Then, we will go to the Grafana web page, **http://localhost:3000**, to login as admin and setup Grafana to set Prometheus as data source to display the metrics inside Prometheus and fill the URL with the default shown inside Grafana **http://localhost:9090**. The setting can be found on clicking the Grafana Logo on the top-right corner -> Connection -> Data Sources. After that, we will need to create the dashboard, to access there we will be clicking the "+" button on the top-left corner -> import dashboard and use the built in dashboard ID for Node Exporter, 1960, and select the Prometheus data sources created recently. Now, you will see the dashboard UI displayed and you can edit the metrics to be observed based on your preference.
+
+## Summary
+
+To summarize up, the second milesstone basically tell the deployment of twinning agent with their built in functions and step to set up the monitoring tools. For next milestone, I will be implement the AI Analysis tools to help with network optimisation.
