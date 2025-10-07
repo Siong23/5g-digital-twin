@@ -1,0 +1,8 @@
+{
+  "source_ip": "192.168.0.188",
+  "source_port": 27017,
+  "target_ip": "localhost",
+  "target_port": 27017,
+  "ndt_server_ip": "192.168.0.132",
+  "ueransim_server_ip": "192.168.0.115"
+}
