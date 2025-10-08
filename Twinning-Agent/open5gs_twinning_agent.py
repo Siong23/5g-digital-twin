@@ -192,13 +192,14 @@ class Open5GSTwinningAgent:
         if method == "password":
             creds["method"] = "password"
             creds["password"] = getpass.getpass("Password: ")
-            creds["private_key"] = None  # ensure key exists for consistency
+            creds["private_key"] = None
+            creds["key_passphrase"] = None
 
         elif method == "key":
             creds["method"] = "key"
-            key_path = input("Private key path (~/.ssh/id_rsa): ").strip()
+            key_path = input("Private key path (~/.ssh/id_ed25519): ").strip()
             if not key_path:
-                key_path = "~/.ssh/id_rsa"
+                key_path = "~/.ssh/id_ed25519"
             key_path = os.path.expanduser(key_path)
 
             if not os.path.exists(key_path):
@@ -206,15 +207,23 @@ class Open5GSTwinningAgent:
                 creds["method"] = "password"
                 creds["password"] = getpass.getpass("Password: ")
                 creds["private_key"] = None
+                creds["key_passphrase"] = None
             else:
                 creds["private_key"] = key_path
-                creds["password"] = None  # keep consistent
+                creds["password"] = None
+                # Ask if key is encrypted
+                has_passphrase = input("Is the key encrypted with a passphrase? (y/N): ").lower()
+                if has_passphrase == 'y':
+                    creds["key_passphrase"] = getpass.getpass("Key passphrase: ")
+                else:
+                    creds["key_passphrase"] = None
 
         else:
             print("⚠️ Invalid method, falling back to password.")
             creds["method"] = "password"
             creds["password"] = getpass.getpass("Password: ")
             creds["private_key"] = None
+            creds["key_passphrase"] = None
 
         # Cache credentials for this IP
         self.credentials[ip] = creds
@@ -225,17 +234,20 @@ class Open5GSTwinningAgent:
         """Initialize credentials for all deployment targets once"""
         if self.credentials_initialized:
             return
-        
+    
         print("\n=== Initializing Deployment Credentials ===")
         print("Please provide credentials for deployment targets.")
         print("These will be cached for the session to avoid repeated prompts.")
-        
+    
+        # Get Source/Physical server credentials (for traffic collection)
+        self._get_credentials("=== Physical Open5GS Server Credentials (for traffic data) ===", self.source_ip)
+    
         # Get NDT credentials
         self._get_credentials("=== NDT Open5GS Server Credentials ===", self.ndt_server_ip)
-        
+    
         # Get UERANSIM credentials
         self._get_credentials("=== UERANSIM Server Credentials ===", self.ueransim_server_ip)
-        
+    
         self.credentials_initialized = True
         logger.info("All deployment credentials initialized and cached")
         
@@ -587,30 +599,69 @@ integrityMaxRate:
         creds = self.credentials.get(ip)
         if not creds:
             raise Exception(f"No cached credentials found for {ip}")
-        
+    
         ssh_client = paramiko.SSHClient()
         ssh_client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+    
+        try:
+            if creds["method"] == "key" and creds["private_key"]:
+                # Try to load the key - let paramiko auto-detect the key type
+                key_passphrase = creds.get("key_passphrase")
+                pkey = None
+            
+                # Try different key types in order
+                key_classes = [
+                    paramiko.Ed25519Key,
+                    paramiko.RSAKey,
+                    paramiko.ECDSAKey,
+                    paramiko.DSSKey
+                ]
+            
+                for key_class in key_classes:
+                    try:
+                        if key_passphrase:
+                            pkey = key_class.from_private_key_file(
+                                creds["private_key"],
+                                password=key_passphrase
+                            )
+                        else:
+                            pkey = key_class.from_private_key_file(creds["private_key"])
+                        logger.info(f"Loaded {key_class.__name__} successfully")
+                        break
+                    except (paramiko.SSHException, ValueError):
+                        continue
+            
+                if pkey is None:
+                    raise Exception(f"Could not load private key from {creds['private_key']}")
+            
+                ssh_client.connect(
+                    hostname=ip,
+                    port=22,
+                    username=creds["username"],
+                    pkey=pkey,
+                    timeout=30,
+                    look_for_keys=False,
+                    allow_agent=False
+                )
+            elif creds["method"] == "password" and creds["password"]:
+                ssh_client.connect(
+                    hostname=ip,
+                    port=22,
+                    username=creds["username"],
+                    password=creds["password"],
+                    timeout=30,
+                    look_for_keys=False,
+                    allow_agent=False
+                )
+            else:
+                raise Exception(f"Invalid authentication method for {ip}")
         
-        if creds["method"] == "key" and creds["private_key"]:
-            ssh_client.connect(
-                hostname=ip,
-                port=22,
-                username=creds["username"],
-                key_filename=creds["private_key"],
-                timeout=30
-            )
-        elif creds["method"] == "password" and creds["password"]:
-            ssh_client.connect(
-                hostname=ip,
-                port=22,
-                username=creds["username"],
-                password=creds["password"],
-                timeout=30
-            )
-        else:
-            raise Exception(f"Invalid authentication method for {ip}")
+            logger.info(f"SSH connection established to {ip}")
+            return ssh_client
         
-        return ssh_client
+        except Exception as e:
+            logger.error(f"SSH connection failed to {ip}: {e}")
+            raise
     
     def deploy_database_to_ndt_open5gs(self, ndt_ip: str = None) -> bool:
         """Deploy Open5GS database to NDT Open5GS server"""
@@ -786,13 +837,13 @@ integrityMaxRate:
         """Collect traffic data from physical Open5GS and deploy to NDT"""
         try:
             logger.info(f"Starting traffic data collection from {self.source_ip}...")
-            
+        
             # Get traffic collection configuration (only prompt once)
             if not hasattr(self, 'traffic_config'):
                 print(f"\n=== Traffic Data Collection Configuration ===")
                 physical_data_path = input("Physical network data path (/home/ubuntu/Desktop): ") or "/home/ubuntu/Desktop"
                 ndt_data_path = input("NDT destination path (/srv/ndt_data): ") or "/srv/ndt_data"
-                
+            
                 self.traffic_config = {
                     'physical_path': physical_data_path,
                     'ndt_path': ndt_data_path
@@ -800,108 +851,136 @@ integrityMaxRate:
             else:
                 physical_data_path = self.traffic_config['physical_path']
                 ndt_data_path = self.traffic_config['ndt_path']
-            
+        
             # Create destination directory with timestamp
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             dest_dir = f"run{timestamp}"
-            
-            # Files to collect from physical network
-            traffic_files = [
-                f"{physical_data_path}/core_traffic.pcap",
-                f"{physical_data_path}/core_traffic.csv",
-                f"{physical_data_path}/core_ifstat.log"
-            ]
-            
+        
             logger.info("Connecting to physical Open5GS server...")
-            
+        
             # Create SSH connection to physical Open5GS (same IP as source database)
             ssh_client = self._create_ssh_connection(self.source_ip)
-            
+        
+            # List all files in the physical data path
+            logger.info(f"Discovering files in {physical_data_path}...")
+            list_cmd = f"find {physical_data_path} -maxdepth 1 -type f"
+            stdin, stdout, stderr = ssh_client.exec_command(list_cmd)
+            file_list_output = stdout.read().decode().strip()
+        
+            if not file_list_output:
+                logger.warning(f"No files found in {physical_data_path}")
+                ssh_client.close()
+                return False
+        
+            # Get list of all files
+            traffic_files = [f.strip() for f in file_list_output.split('\n') if f.strip()]
+            logger.info(f"Found {len(traffic_files)} files to collect")
+        
             # Create temporary local directory
             temp_dir = tempfile.mkdtemp()
             local_collected = []
-            
+        
             # Collect files from physical server
             logger.info("Collecting traffic data files...")
             with scp.SCPClient(ssh_client.get_transport()) as scp_client:
                 for remote_file in traffic_files:
                     try:
-                        local_file = os.path.join(temp_dir, os.path.basename(remote_file))
+                        filename = os.path.basename(remote_file)
+                        local_file = os.path.join(temp_dir, filename)
                         scp_client.get(remote_file, local_file)
                         local_collected.append(local_file)
-                        logger.info(f"Collected: {os.path.basename(remote_file)}")
+                        logger.info(f"✓ Collected: {filename}")
                     except Exception as e:
-                        logger.warning(f"Could not collect {remote_file}: {e}")
-            
+                        logger.warning(f"✗ Could not collect {remote_file}: {e}")
+        
             ssh_client.close()
-            
+        
             if not local_collected:
                 logger.error("No traffic files were collected")
                 shutil.rmtree(temp_dir)
                 return False
-            
+        
+            logger.info(f"Successfully collected {len(local_collected)} files")
+        
             # Create tar archive of collected data
             tar_path = os.path.join(temp_dir, "traffic_data.tar.gz")
             with tarfile.open(tar_path, "w:gz") as tar:
                 for file in local_collected:
                     tar.add(file, arcname=os.path.basename(file))
-            
+        
             logger.info(f"Deploying traffic data to NDT Open5GS at {self.ndt_server_ip}...")
-            
+        
             # Connect to NDT server
             ndt_ssh = self._create_ssh_connection(self.ndt_server_ip)
-            
+        
             # Create destination directory on NDT
             mkdir_cmd = f"mkdir -p {ndt_data_path}/{dest_dir}"
             stdin, stdout, stderr = ndt_ssh.exec_command(mkdir_cmd)
             stdout.channel.recv_exit_status()
-            
+        
             # Transfer tar archive to NDT
             logger.info("Transferring traffic data archive...")
             with scp.SCPClient(ndt_ssh.get_transport()) as scp_client:
                 scp_client.put(tar_path, f"/tmp/traffic_data.tar.gz")
-            
+        
             # Extract on NDT server
             extract_cmd = f"cd {ndt_data_path}/{dest_dir} && tar -xzf /tmp/traffic_data.tar.gz && rm /tmp/traffic_data.tar.gz"
             stdin, stdout, stderr = ndt_ssh.exec_command(extract_cmd)
             exit_status = stdout.channel.recv_exit_status()
-            
+        
             if exit_status != 0:
                 error_msg = stderr.read().decode()
                 logger.error(f"Failed to extract traffic data: {error_msg}")
                 ndt_ssh.close()
                 shutil.rmtree(temp_dir)
                 return False
-            
-            # Convert PCAP to CSV on NDT if needed
-            logger.info("Converting PCAP to CSV on NDT server...")
+        
+            # Convert PCAP files to CSV on NDT if needed
+            logger.info("Converting PCAP files to CSV on NDT server...")
             convert_cmd = f"""
             cd {ndt_data_path}/{dest_dir} && \
-            if [ -f core_traffic.pcap ]; then \
-                tshark -r core_traffic.pcap -T fields \
-                -e frame.time -e ip.src -e ip.dst -e gtp.teid -e frame.len \
-                -E separator=$'\\t' > core_traffic.csv 2>/dev/null || true; \
-            fi
+            for pcap in *.pcap; do
+                if [ -f "$pcap" ]; then
+                    csv="${{pcap%.pcap}}.csv"
+                    if [ ! -f "$csv" ]; then
+                        tshark -r "$pcap" -T fields \
+                        -e frame.time -e ip.src -e ip.dst -e gtp.teid -e frame.len \
+                        -E separator=$'\\t' > "$csv" 2>/dev/null || true
+                        echo "Converted $pcap to $csv"
+                    fi
+                fi
+            done
             """
             stdin, stdout, stderr = ndt_ssh.exec_command(convert_cmd)
             stdout.channel.recv_exit_status()
-            
+            conversion_output = stdout.read().decode()
+            if conversion_output:
+                logger.info(f"Conversion output:\n{conversion_output}")
+        
             # List files to verify
             list_cmd = f"ls -lh {ndt_data_path}/{dest_dir}"
             stdin, stdout, stderr = ndt_ssh.exec_command(list_cmd)
             file_list = stdout.read().decode()
-            
+        
+            # Count files
+            count_cmd = f"find {ndt_data_path}/{dest_dir} -type f | wc -l"
+            stdin, stdout, stderr = ndt_ssh.exec_command(count_cmd)
+            file_count = stdout.read().decode().strip()
+        
             ndt_ssh.close()
-            
+        
             # Cleanup
             shutil.rmtree(temp_dir)
-            
-            logger.info(f"Traffic data deployed to {self.ndt_server_ip}:{ndt_data_path}/{dest_dir}")
+        
+            logger.info(f"✅ Traffic data deployed to {self.ndt_server_ip}:{ndt_data_path}/{dest_dir}")
+            logger.info(f"📁 Total files deployed: {file_count}")
             logger.info(f"Files:\n{file_list}")
             return True
-            
+        
         except Exception as e:
-            logger.error(f"Traffic data collection failed: {e}")
+            logger.error(f"❌ Traffic data collection failed: {e}")
+            import traceback
+            logger.error(traceback.format_exc())
             return False
 
     def run_periodic_twinning(self, interval: int = 60, collect_traffic: bool = True):
