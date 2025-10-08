@@ -2437,3 +2437,382 @@
 2025-10-06 17:58:27,377 - INFO - Transferring UERANSIM configs...
 2025-10-06 17:58:27,468 - INFO - Extracting configs on server...
 2025-10-06 17:58:27,655 - INFO - ✅ Successfully deployed 9 UERANSIM configs to 192.168.0.115:~/UERANSIM
+2025-10-07 12:57:46,954 - INFO - Loaded configuration from twinning_config.json
+2025-10-07 12:57:46,954 - INFO - Twinning Agent initialized - Source: 192.168.0.188:27017
+2025-10-07 12:57:52,388 - INFO - Configuration saved to twinning_config.json
+2025-10-07 12:57:52,388 - INFO - Configuration updated successfully
+2025-10-07 12:57:57,433 - INFO - Loaded configuration from twinning_config.json
+2025-10-07 12:57:57,433 - INFO - Twinning Agent initialized - Source: 192.168.0.188:27017
+2025-10-07 12:58:50,845 - INFO - Cached credentials for 192.168.0.188
+2025-10-07 12:59:18,141 - INFO - Cached credentials for 192.168.0.132
+2025-10-07 12:59:38,363 - INFO - Cached credentials for 192.168.0.115
+2025-10-07 12:59:38,364 - INFO - All deployment credentials initialized and cached
+2025-10-07 12:59:38,364 - INFO - Starting traffic data collection from 192.168.0.188...
+2025-10-07 13:00:30,233 - INFO - Connecting to physical Open5GS server...
+2025-10-07 13:00:30,303 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-07 13:00:30,498 - INFO - Authentication (publickey) successful!
+2025-10-07 13:00:30,499 - INFO - Collecting traffic data files...
+2025-10-07 13:00:30,827 - INFO - Collected: core_traffic.pcap
+2025-10-07 13:00:31,003 - WARNING - Could not collect /home/ubuntu/Desktop/traffic_data/core_traffic.csv: scp: /home/ubuntu/Desktop/traffic_data/core_traffic.csv: No such file or directory
+2025-10-07 13:00:31,160 - INFO - Collected: core_ifstat.log
+2025-10-07 13:00:31,176 - INFO - Deploying traffic data to NDT Open5GS at 192.168.0.132...
+2025-10-07 13:00:31,245 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-07 13:00:31,393 - INFO - Authentication (publickey) successful!
+2025-10-07 13:00:32,112 - INFO - Transferring traffic data archive...
+2025-10-07 13:00:32,383 - INFO - Converting PCAP to CSV on NDT server...
+2025-10-07 13:00:32,561 - INFO - Traffic data deployed to 192.168.0.132:/home/open5gs/Desktop/run20251007_130030
+2025-10-07 13:00:32,561 - INFO - Files:
+total 140K
+-rw-rw-r-- 1 open5gs open5gs 5.8K Okt   7  2025 core_ifstat.log
+-rw-rw-r-- 1 open5gs open5gs    0 Okt   4 22:13 core_traffic.csv
+-rw-r--r-- 1 open5gs open5gs 130K Okt   7  2025 core_traffic.pcap
+
+2025-10-07 13:02:56,776 - INFO - Loaded configuration from twinning_config.json
+2025-10-07 13:02:56,776 - INFO - Twinning Agent initialized - Source: 192.168.0.188:27017
+2025-10-07 13:03:28,424 - INFO - Cached credentials for 192.168.0.188
+2025-10-07 13:03:45,672 - INFO - Cached credentials for 192.168.0.132
+2025-10-07 13:04:00,823 - INFO - Cached credentials for 192.168.0.115
+2025-10-07 13:04:00,823 - INFO - All deployment credentials initialized and cached
+2025-10-07 13:04:00,823 - INFO - Starting traffic data collection from 192.168.0.188...
+2025-10-07 13:05:10,568 - INFO - Connecting to physical Open5GS server...
+2025-10-07 13:05:10,660 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-07 13:05:10,827 - INFO - Authentication (publickey) successful!
+2025-10-07 13:05:10,828 - INFO - Collecting traffic data files...
+2025-10-07 13:05:11,170 - INFO - Collected: core_traffic.pcap
+2025-10-07 13:05:11,334 - INFO - Collected: core_traffic.csv
+2025-10-07 13:05:11,532 - INFO - Collected: core_ifstat.log
+2025-10-07 13:05:11,550 - INFO - Deploying traffic data to NDT Open5GS at 192.168.0.132...
+2025-10-07 13:05:11,610 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-07 13:05:11,757 - INFO - Authentication (publickey) successful!
+2025-10-07 13:05:12,264 - INFO - Transferring traffic data archive...
+2025-10-07 13:05:12,502 - INFO - Converting PCAP to CSV on NDT server...
+2025-10-07 13:05:12,729 - INFO - Traffic data deployed to 192.168.0.132:/home/open5gs/Desktop/run20251007_130510
+2025-10-07 13:05:12,729 - INFO - Files:
+total 140K
+-rw-rw-r-- 1 open5gs open5gs 5.8K Okt   7  2025 core_ifstat.log
+-rw-rw-r-- 1 open5gs open5gs    0 Okt   4 22:18 core_traffic.csv
+-rw-r--r-- 1 open5gs open5gs 130K Okt   7  2025 core_traffic.pcap
+
+2025-10-07 13:20:10,920 - INFO - Loaded configuration from twinning_config.json
+2025-10-07 13:20:10,920 - INFO - Twinning Agent initialized - Source: 192.168.0.188:27017
+2025-10-07 13:20:26,328 - INFO - Loaded configuration from twinning_config.json
+2025-10-07 13:20:26,328 - INFO - Twinning Agent initialized - Source: 192.168.0.188:27017
+2025-10-07 13:20:32,952 - INFO - Cached credentials for 192.168.0.188
+2025-10-07 13:20:44,327 - INFO - Cached credentials for 192.168.0.132
+2025-10-07 13:20:52,824 - INFO - Cached credentials for 192.168.0.115
+2025-10-07 13:20:52,824 - INFO - All deployment credentials initialized and cached
+2025-10-07 13:20:52,824 - INFO - Starting traffic data collection from 192.168.0.188...
+2025-10-07 13:21:47,160 - INFO - Connecting to physical Open5GS server...
+2025-10-07 13:21:47,161 - ERROR - SSH connection failed to 192.168.0.188: unpack requires a buffer of 4 bytes
+2025-10-07 13:21:47,161 - ERROR - ❌ Traffic data collection failed: unpack requires a buffer of 4 bytes
+2025-10-07 13:21:47,162 - ERROR - Traceback (most recent call last):
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/pkey.py", line 698, in _uint32_cstruct_unpack
+    s_size = struct.unpack(">L", data[idx : idx + 4])[0]
+struct.error: unpack requires a buffer of 4 bytes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gmk/Twinning-Agent/open5gs_twinning_agent.py", line 838, in collect_traffic_data_from_physical
+    ssh_client = self._create_ssh_connection(self.source_ip)
+  File "/home/gmk/Twinning-Agent/open5gs_twinning_agent.py", line 615, in _create_ssh_connection
+    pkey = paramiko.RSAKey.from_private_key_file(creds["private_key"])
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/pkey.py", line 421, in from_private_key_file
+    key = cls(filename=filename, password=password)
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/rsakey.py", line 64, in __init__
+    self._from_private_key_file(filename, password)
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/rsakey.py", line 197, in _from_private_key_file
+    self._decode_key(data)
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/rsakey.py", line 213, in _decode_key
+    n, e, d, iqmp, p, q = self._uint32_cstruct_unpack(data, "iiiiii")
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/pkey.py", line 718, in _uint32_cstruct_unpack
+    raise SSHException(str(e))
+paramiko.ssh_exception.SSHException: unpack requires a buffer of 4 bytes
+
+2025-10-07 13:23:00,111 - INFO - Loaded configuration from twinning_config.json
+2025-10-07 13:23:00,111 - INFO - Twinning Agent initialized - Source: 192.168.0.188:27017
+2025-10-07 13:23:09,012 - INFO - Cached credentials for 192.168.0.188
+2025-10-07 13:23:21,550 - INFO - Cached credentials for 192.168.0.132
+2025-10-07 13:23:31,858 - INFO - Cached credentials for 192.168.0.115
+2025-10-07 13:23:31,858 - INFO - All deployment credentials initialized and cached
+2025-10-07 13:23:31,858 - INFO - Starting traffic data collection from 192.168.0.188...
+2025-10-07 13:24:02,127 - INFO - Connecting to physical Open5GS server...
+2025-10-07 13:24:02,127 - ERROR - SSH connection failed to 192.168.0.188: unpack requires a buffer of 4 bytes
+2025-10-07 13:24:02,127 - ERROR - ❌ Traffic data collection failed: unpack requires a buffer of 4 bytes
+2025-10-07 13:24:02,128 - ERROR - Traceback (most recent call last):
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/pkey.py", line 698, in _uint32_cstruct_unpack
+    s_size = struct.unpack(">L", data[idx : idx + 4])[0]
+struct.error: unpack requires a buffer of 4 bytes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gmk/Twinning-Agent/open5gs_twinning_agent.py", line 838, in collect_traffic_data_from_physical
+    ssh_client = self._create_ssh_connection(self.source_ip)
+  File "/home/gmk/Twinning-Agent/open5gs_twinning_agent.py", line 615, in _create_ssh_connection
+    pkey = paramiko.RSAKey.from_private_key_file(creds["private_key"])
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/pkey.py", line 421, in from_private_key_file
+    key = cls(filename=filename, password=password)
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/rsakey.py", line 64, in __init__
+    self._from_private_key_file(filename, password)
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/rsakey.py", line 197, in _from_private_key_file
+    self._decode_key(data)
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/rsakey.py", line 213, in _decode_key
+    n, e, d, iqmp, p, q = self._uint32_cstruct_unpack(data, "iiiiii")
+  File "/home/gmk/.local/lib/python3.10/site-packages/paramiko/pkey.py", line 718, in _uint32_cstruct_unpack
+    raise SSHException(str(e))
+paramiko.ssh_exception.SSHException: unpack requires a buffer of 4 bytes
+
+2025-10-07 13:26:03,497 - INFO - Loaded configuration from twinning_config.json
+2025-10-07 13:26:03,498 - INFO - Twinning Agent initialized - Source: 192.168.0.188:27017
+2025-10-07 13:26:15,432 - INFO - Cached credentials for 192.168.0.188
+2025-10-07 13:26:29,580 - INFO - Cached credentials for 192.168.0.132
+2025-10-07 13:26:41,631 - INFO - Cached credentials for 192.168.0.115
+2025-10-07 13:26:41,631 - INFO - All deployment credentials initialized and cached
+2025-10-07 13:26:41,631 - INFO - Starting traffic data collection from 192.168.0.188...
+2025-10-07 13:27:16,412 - INFO - Connecting to physical Open5GS server...
+2025-10-07 13:27:16,413 - INFO - Loaded Ed25519Key successfully
+2025-10-07 13:27:16,498 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-07 13:27:16,685 - INFO - Authentication (publickey) successful!
+2025-10-07 13:27:16,686 - INFO - SSH connection established to 192.168.0.188
+2025-10-07 13:27:16,686 - INFO - Discovering files in /srv/ndt_data/run20251006...
+2025-10-07 13:27:16,911 - INFO - Found 8 files to collect
+2025-10-07 13:27:16,911 - INFO - Collecting traffic data files...
+2025-10-07 13:27:17,025 - INFO - ✓ Collected: core_ifstat.log
+2025-10-07 13:27:17,282 - INFO - ✓ Collected: ue_fping.log
+2025-10-07 13:27:17,500 - INFO - ✓ Collected: core_traffic.pcap
+2025-10-07 13:27:17,644 - INFO - ✓ Collected: traffic_analysis.json
+2025-10-07 13:27:17,801 - INFO - ✓ Collected: core_traffic.csv
+2025-10-07 13:27:18,034 - INFO - ✓ Collected: gnb_gtp.pcap
+2025-10-07 13:27:18,355 - INFO - ✓ Collected: gnb_gtp.csv
+2025-10-07 13:27:19,094 - INFO - ✓ Collected: ue_ping.log
+2025-10-07 13:27:19,094 - INFO - Successfully collected 8 files
+2025-10-07 13:27:19,129 - INFO - Deploying traffic data to NDT Open5GS at 192.168.0.132...
+2025-10-07 13:27:19,130 - INFO - Loaded Ed25519Key successfully
+2025-10-07 13:27:19,169 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-07 13:27:19,336 - INFO - Authentication (publickey) successful!
+2025-10-07 13:27:19,336 - INFO - SSH connection established to 192.168.0.132
+2025-10-07 13:27:19,728 - INFO - Transferring traffic data archive...
+2025-10-07 13:27:19,974 - INFO - Converting PCAP files to CSV on NDT server...
+2025-10-07 13:27:20,218 - INFO - ✅ Traffic data deployed to 192.168.0.132:/home/open5gs/Desktop/run20251007_132716
+2025-10-07 13:27:20,218 - INFO - 📁 Total files deployed: 8
+2025-10-07 13:27:20,218 - INFO - Files:
+total 600K
+-rw-rw-r-- 1 open5gs open5gs 5.8K Okt   7  2025 core_ifstat.log
+-rw-rw-r-- 1 open5gs open5gs  71K Okt   7  2025 core_traffic.csv
+-rw-r--r-- 1 open5gs open5gs 130K Okt   7  2025 core_traffic.pcap
+-rw-rw-r-- 1 open5gs open5gs 119K Okt   7  2025 gnb_gtp.csv
+-rw-r--r-- 1 open5gs open5gs 201K Okt   7  2025 gnb_gtp.pcap
+-rw-rw-r-- 1 open5gs open5gs  14K Okt   7  2025 traffic_analysis.json
+-rw-rw-r-- 1 open5gs open5gs 5.3K Okt   7  2025 ue_fping.log
+-rw-rw-r-- 1 open5gs open5gs  40K Okt   7  2025 ue_ping.log
+
+2025-10-08 14:38:57,747 - INFO - Loaded configuration from twinning_config.json
+2025-10-08 14:38:57,747 - INFO - Twinning Agent initialized - Source: 192.168.0.188:27017
+2025-10-08 14:39:07,322 - INFO - Starting periodic twinning every 45 seconds...
+2025-10-08 14:39:07,322 - INFO - Traffic data collection enabled
+2025-10-08 14:39:18,335 - INFO - Cached credentials for 192.168.0.188
+2025-10-08 14:39:27,535 - INFO - Cached credentials for 192.168.0.132
+2025-10-08 14:39:41,692 - INFO - Cached credentials for 192.168.0.115
+2025-10-08 14:39:41,692 - INFO - All deployment credentials initialized and cached
+2025-10-08 14:39:41,692 - INFO - Running scheduled twinning cycle #1...
+2025-10-08 14:39:41,692 - INFO - Starting Open5GS twinning cycle...
+2025-10-08 14:39:41,801 - INFO - Successfully connected to source Open5GS database
+2025-10-08 14:39:41,805 - INFO - Successfully connected to target database
+2025-10-08 14:39:41,817 - INFO - Retrieved 9 subscribers from source database
+2025-10-08 14:39:41,870 - INFO - Found collections: ['accounts', 'subscribers', 'sessions']
+2025-10-08 14:39:41,904 - INFO - Mirrored 1 documents in accounts
+2025-10-08 14:39:41,940 - INFO - Mirrored 9 documents in subscribers
+2025-10-08 14:39:42,007 - INFO - Database mirroring completed successfully
+2025-10-08 14:39:42,008 - INFO - Generated UE config for IMSI: 001010000000001 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:39:42,008 - INFO - Generated UE config for IMSI: 001010000000002 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:39:42,008 - INFO - Generated UE config for IMSI: 001010000000003 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:39:42,008 - INFO - Generated UE config for IMSI: 001010000000004 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:39:42,008 - INFO - Generated UE config for IMSI: 001010000000006 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:39:42,008 - INFO - Generated UE config for IMSI: 001010000000005 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:39:42,008 - INFO - Generated UE config for IMSI: 001010000000007 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:39:42,008 - INFO - Generated UE config for IMSI: 001010000000008 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:39:42,008 - INFO - Generated UE config for IMSI: 001010000000009 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:39:42,008 - INFO - Successfully generated 9 UE configurations
+2025-10-08 14:39:42,008 - INFO - Created UERANSIM config: ueransim_configs/ue_001.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:39:42,009 - INFO - Created UERANSIM config: ueransim_configs/ue_002.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:39:42,009 - INFO - Created UERANSIM config: ueransim_configs/ue_003.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:39:42,009 - INFO - Created UERANSIM config: ueransim_configs/ue_004.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:39:42,009 - INFO - Created UERANSIM config: ueransim_configs/ue_005.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:39:42,009 - INFO - Created UERANSIM config: ueransim_configs/ue_006.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:39:42,009 - INFO - Created UERANSIM config: ueransim_configs/ue_007.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:39:42,009 - INFO - Created UERANSIM config: ueransim_configs/ue_008.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:39:42,009 - INFO - Created UERANSIM config: ueransim_configs/ue_009.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:39:42,010 - INFO - Created 9 UERANSIM configurations
+2025-10-08 14:39:42,010 - INFO - Twinning cycle completed successfully!
+2025-10-08 14:39:42,021 - INFO - Twinning cycle successful, deploying...
+2025-10-08 14:39:42,021 - INFO - Starting database deployment to NDT Open5GS at 192.168.0.132...
+2025-10-08 14:39:47,155 - INFO - Creating database dump...
+2025-10-08 14:39:47,169 - INFO - Connecting to NDT Open5GS server...
+2025-10-08 14:39:47,169 - INFO - Loaded Ed25519Key successfully
+2025-10-08 14:39:47,273 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-08 14:39:47,410 - INFO - Authentication (publickey) successful!
+2025-10-08 14:39:47,411 - INFO - SSH connection established to 192.168.0.132
+2025-10-08 14:39:47,411 - INFO - Transferring database dump...
+2025-10-08 14:39:48,237 - INFO - Extracting and restoring database on NDT server...
+2025-10-08 14:39:48,296 - INFO - Executed: cd /tmp && tar -xzf open5gs_dump.tar.gz
+2025-10-08 14:39:48,778 - INFO - Executed: mongorestore --host localhost:27017 --db open5gs --drop /tmp/open5gs_dump/open5gs_twin/
+2025-10-08 14:39:48,857 - INFO - Executed: rm -rf /tmp/open5gs_dump*
+2025-10-08 14:39:48,932 - INFO - ✅ Database successfully deployed to NDT Open5GS at 192.168.0.132
+2025-10-08 14:39:48,932 - INFO - 📊 Subscribers in deployed database: 
+2025-10-08 14:39:48,932 - INFO - Starting UERANSIM configs deployment to 192.168.0.115...
+2025-10-08 14:39:56,585 - INFO - Connecting to UERANSIM server...
+2025-10-08 14:39:56,585 - INFO - Loaded Ed25519Key successfully
+2025-10-08 14:39:56,612 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-08 14:39:56,753 - INFO - Authentication (publickey) successful!
+2025-10-08 14:39:56,753 - INFO - SSH connection established to 192.168.0.115
+2025-10-08 14:39:57,207 - INFO - Transferring UERANSIM configs...
+2025-10-08 14:39:57,317 - INFO - Extracting configs on server...
+2025-10-08 14:39:57,527 - INFO - ✅ Successfully deployed 9 UERANSIM configs to 192.168.0.115:~/UERANSIM
+2025-10-08 14:39:57,527 - INFO - Collecting traffic data from physical network...
+2025-10-08 14:39:57,527 - INFO - Starting traffic data collection from 192.168.0.188...
+2025-10-08 14:41:27,159 - INFO - Connecting to physical Open5GS server...
+2025-10-08 14:41:27,159 - INFO - Loaded Ed25519Key successfully
+2025-10-08 14:41:27,211 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-08 14:41:27,453 - INFO - Authentication (publickey) successful!
+2025-10-08 14:41:27,454 - INFO - SSH connection established to 192.168.0.188
+2025-10-08 14:41:27,454 - INFO - Discovering files in /srv/ndt_data/run20251008...
+2025-10-08 14:41:27,630 - INFO - Found 10 files to collect
+2025-10-08 14:41:27,631 - INFO - Collecting traffic data files...
+2025-10-08 14:41:27,757 - INFO - ✓ Collected: core_ifstat.log
+2025-10-08 14:41:27,955 - INFO - ✓ Collected: ue_ping.csv
+2025-10-08 14:41:28,086 - INFO - ✓ Collected: core_bandwidth.csv
+2025-10-08 14:41:28,301 - INFO - ✓ Collected: core_traffic.pcap
+2025-10-08 14:41:28,566 - INFO - ✓ Collected: traffic_analysis.json
+2025-10-08 14:41:28,752 - INFO - ✓ Collected: core_traffic.csv
+2025-10-08 14:41:28,873 - INFO - ✓ Collected: gnb_bandwidth.csv
+2025-10-08 14:41:29,032 - INFO - ✓ Collected: gnb_gtp.pcap
+2025-10-08 14:41:29,205 - INFO - ✓ Collected: gnb_gtp.csv
+2025-10-08 14:41:29,430 - INFO - ✓ Collected: ue_ping.log
+2025-10-08 14:41:29,430 - INFO - Successfully collected 10 files
+2025-10-08 14:41:29,437 - INFO - Deploying traffic data to NDT Open5GS at 192.168.0.132...
+2025-10-08 14:41:29,437 - INFO - Loaded Ed25519Key successfully
+2025-10-08 14:41:29,477 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-08 14:41:29,626 - INFO - Authentication (publickey) successful!
+2025-10-08 14:41:29,626 - INFO - SSH connection established to 192.168.0.132
+2025-10-08 14:41:30,096 - INFO - Transferring traffic data archive...
+2025-10-08 14:41:30,332 - INFO - Converting PCAP files to CSV on NDT server...
+2025-10-08 14:41:30,592 - INFO - ✅ Traffic data deployed to 192.168.0.132:/home/open5gs/Desktop/traffic_data_replay/run20251008_144127
+2025-10-08 14:41:30,592 - INFO - 📁 Total files deployed: 10
+2025-10-08 14:41:30,592 - INFO - Files:
+total 124K
+-rw-rw-r-- 1 open5gs open5gs  853 Okt   8  2025 core_bandwidth.csv
+-rw-rw-r-- 1 open5gs open5gs 1.5K Okt   8  2025 core_ifstat.log
+-rw-rw-r-- 1 open5gs open5gs  12K Okt   8  2025 core_traffic.csv
+-rw-r--r-- 1 open5gs open5gs  22K Okt   8  2025 core_traffic.pcap
+-rw-rw-r-- 1 open5gs open5gs  803 Okt   8  2025 gnb_bandwidth.csv
+-rw-rw-r-- 1 open5gs open5gs  19K Okt   8  2025 gnb_gtp.csv
+-rw-r--r-- 1 open5gs open5gs  33K Okt   8  2025 gnb_gtp.pcap
+-rw-rw-r-- 1 open5gs open5gs 2.9K Okt   8  2025 traffic_analysis.json
+-rw-rw-r-- 1 open5gs open5gs 4.2K Okt   8  2025 ue_ping.csv
+-rw-rw-r-- 1 open5gs open5gs 7.7K Okt   8  2025 ue_ping.log
+
+2025-10-08 14:41:30,592 - INFO - Traffic data collection successful
+2025-10-08 14:41:30,592 - INFO - Cycle #1 completed successfully
+2025-10-08 14:41:30,592 - INFO - Sleeping for 45 seconds before next cycle...
+2025-10-08 14:42:15,636 - INFO - Running scheduled twinning cycle #2...
+2025-10-08 14:42:15,637 - INFO - Starting Open5GS twinning cycle...
+2025-10-08 14:42:15,719 - INFO - Successfully connected to source Open5GS database
+2025-10-08 14:42:15,723 - INFO - Successfully connected to target database
+2025-10-08 14:42:15,797 - INFO - Retrieved 9 subscribers from source database
+2025-10-08 14:42:15,820 - INFO - Found collections: ['accounts', 'subscribers', 'sessions']
+2025-10-08 14:42:15,844 - INFO - Mirrored 1 documents in accounts
+2025-10-08 14:42:15,901 - INFO - Mirrored 9 documents in subscribers
+2025-10-08 14:42:15,938 - INFO - Database mirroring completed successfully
+2025-10-08 14:42:15,939 - INFO - Generated UE config for IMSI: 001010000000001 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:42:15,939 - INFO - Generated UE config for IMSI: 001010000000002 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:42:15,939 - INFO - Generated UE config for IMSI: 001010000000003 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:42:15,939 - INFO - Generated UE config for IMSI: 001010000000004 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:42:15,939 - INFO - Generated UE config for IMSI: 001010000000006 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:42:15,939 - INFO - Generated UE config for IMSI: 001010000000005 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:42:15,939 - INFO - Generated UE config for IMSI: 001010000000007 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:42:15,939 - INFO - Generated UE config for IMSI: 001010000000008 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:42:15,939 - INFO - Generated UE config for IMSI: 001010000000009 (Key: 465B5CE8..., OP: E8ED289D..., Type: OPC)
+2025-10-08 14:42:15,939 - INFO - Successfully generated 9 UE configurations
+2025-10-08 14:42:15,939 - INFO - Created UERANSIM config: ueransim_configs/ue_001.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:42:15,939 - INFO - Created UERANSIM config: ueransim_configs/ue_002.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:42:15,939 - INFO - Created UERANSIM config: ueransim_configs/ue_003.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:42:15,939 - INFO - Created UERANSIM config: ueransim_configs/ue_004.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:42:15,940 - INFO - Created UERANSIM config: ueransim_configs/ue_005.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:42:15,940 - INFO - Created UERANSIM config: ueransim_configs/ue_006.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:42:15,940 - INFO - Created UERANSIM config: ueransim_configs/ue_007.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:42:15,940 - INFO - Created UERANSIM config: ueransim_configs/ue_008.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:42:15,940 - INFO - Created UERANSIM config: ueransim_configs/ue_009.yaml (MCC: 001, MNC: 01)
+2025-10-08 14:42:15,940 - INFO - Created 9 UERANSIM configurations
+2025-10-08 14:42:15,940 - INFO - Twinning cycle completed successfully!
+2025-10-08 14:42:15,977 - INFO - Twinning cycle successful, deploying...
+2025-10-08 14:42:15,977 - INFO - Starting database deployment to NDT Open5GS at 192.168.0.132...
+2025-10-08 14:42:15,978 - INFO - Creating database dump...
+2025-10-08 14:42:15,992 - INFO - Connecting to NDT Open5GS server...
+2025-10-08 14:42:15,992 - INFO - Loaded Ed25519Key successfully
+2025-10-08 14:42:16,031 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-08 14:42:16,141 - INFO - Authentication (publickey) successful!
+2025-10-08 14:42:16,141 - INFO - SSH connection established to 192.168.0.132
+2025-10-08 14:42:16,141 - INFO - Transferring database dump...
+2025-10-08 14:42:16,584 - INFO - Extracting and restoring database on NDT server...
+2025-10-08 14:42:16,669 - INFO - Executed: cd /tmp && tar -xzf open5gs_dump.tar.gz
+2025-10-08 14:42:17,005 - INFO - Executed: mongorestore --host localhost:27017 --db open5gs --drop /tmp/open5gs_dump/open5gs_twin/
+2025-10-08 14:42:17,083 - INFO - Executed: rm -rf /tmp/open5gs_dump*
+2025-10-08 14:42:17,158 - INFO - ✅ Database successfully deployed to NDT Open5GS at 192.168.0.132
+2025-10-08 14:42:17,158 - INFO - 📊 Subscribers in deployed database: 
+2025-10-08 14:42:17,158 - INFO - Starting UERANSIM configs deployment to 192.168.0.115...
+2025-10-08 14:42:17,160 - INFO - Connecting to UERANSIM server...
+2025-10-08 14:42:17,161 - INFO - Loaded Ed25519Key successfully
+2025-10-08 14:42:17,194 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-08 14:42:17,348 - INFO - Authentication (publickey) successful!
+2025-10-08 14:42:17,349 - INFO - SSH connection established to 192.168.0.115
+2025-10-08 14:42:17,657 - INFO - Transferring UERANSIM configs...
+2025-10-08 14:42:17,752 - INFO - Extracting configs on server...
+2025-10-08 14:42:17,921 - INFO - ✅ Successfully deployed 9 UERANSIM configs to 192.168.0.115:~/UERANSIM
+2025-10-08 14:42:17,922 - INFO - Collecting traffic data from physical network...
+2025-10-08 14:42:17,922 - INFO - Starting traffic data collection from 192.168.0.188...
+2025-10-08 14:42:17,922 - INFO - Connecting to physical Open5GS server...
+2025-10-08 14:42:17,922 - INFO - Loaded Ed25519Key successfully
+2025-10-08 14:42:17,948 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-08 14:42:18,171 - INFO - Authentication (publickey) successful!
+2025-10-08 14:42:18,171 - INFO - SSH connection established to 192.168.0.188
+2025-10-08 14:42:18,171 - INFO - Discovering files in /srv/ndt_data/run20251008...
+2025-10-08 14:42:18,395 - INFO - Found 10 files to collect
+2025-10-08 14:42:18,395 - INFO - Collecting traffic data files...
+2025-10-08 14:42:18,540 - INFO - ✓ Collected: core_ifstat.log
+2025-10-08 14:42:18,757 - INFO - ✓ Collected: ue_ping.csv
+2025-10-08 14:42:18,849 - INFO - ✓ Collected: core_bandwidth.csv
+2025-10-08 14:42:19,112 - INFO - ✓ Collected: core_traffic.pcap
+2025-10-08 14:42:19,226 - INFO - ✓ Collected: traffic_analysis.json
+2025-10-08 14:42:19,436 - INFO - ✓ Collected: core_traffic.csv
+2025-10-08 14:42:19,614 - INFO - ✓ Collected: gnb_bandwidth.csv
+2025-10-08 14:42:22,172 - INFO - ✓ Collected: gnb_gtp.pcap
+2025-10-08 14:42:22,534 - INFO - ✓ Collected: gnb_gtp.csv
+2025-10-08 14:42:22,692 - INFO - ✓ Collected: ue_ping.log
+2025-10-08 14:42:22,693 - INFO - Successfully collected 10 files
+2025-10-08 14:42:22,700 - INFO - Deploying traffic data to NDT Open5GS at 192.168.0.132...
+2025-10-08 14:42:22,700 - INFO - Loaded Ed25519Key successfully
+2025-10-08 14:42:22,741 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-10-08 14:42:22,874 - INFO - Authentication (publickey) successful!
+2025-10-08 14:42:22,874 - INFO - SSH connection established to 192.168.0.132
+2025-10-08 14:42:23,382 - INFO - Transferring traffic data archive...
+2025-10-08 14:42:23,601 - INFO - Converting PCAP files to CSV on NDT server...
+2025-10-08 14:42:23,874 - INFO - ✅ Traffic data deployed to 192.168.0.132:/home/open5gs/Desktop/traffic_data_replay/run20251008_144217
+2025-10-08 14:42:23,874 - INFO - 📁 Total files deployed: 10
+2025-10-08 14:42:23,874 - INFO - Files:
+total 124K
+-rw-rw-r-- 1 open5gs open5gs  853 Okt   8  2025 core_bandwidth.csv
+-rw-rw-r-- 1 open5gs open5gs 1.5K Okt   8  2025 core_ifstat.log
+-rw-rw-r-- 1 open5gs open5gs  12K Okt   8  2025 core_traffic.csv
+-rw-r--r-- 1 open5gs open5gs  22K Okt   8  2025 core_traffic.pcap
+-rw-rw-r-- 1 open5gs open5gs  803 Okt   8  2025 gnb_bandwidth.csv
+-rw-rw-r-- 1 open5gs open5gs  19K Okt   8  2025 gnb_gtp.csv
+-rw-r--r-- 1 open5gs open5gs  33K Okt   8  2025 gnb_gtp.pcap
+-rw-rw-r-- 1 open5gs open5gs 2.9K Okt   8  2025 traffic_analysis.json
+-rw-rw-r-- 1 open5gs open5gs 4.2K Okt   8  2025 ue_ping.csv
+-rw-rw-r-- 1 open5gs open5gs 7.7K Okt   8  2025 ue_ping.log
+
+2025-10-08 14:42:23,874 - INFO - Traffic data collection successful
+2025-10-08 14:42:23,874 - INFO - Cycle #2 completed successfully
+2025-10-08 14:42:23,874 - INFO - Sleeping for 45 seconds before next cycle...
+2025-10-08 14:42:29,615 - INFO - Periodic twinning stopped by user after 2 cycles
