@@ -1,0 +1,2772 @@
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 91(119) bytes of data.
+[1759994510.263322] 99 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.193/15.193/15.193/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 32(60) bytes of data.
+[1759994510.485452] 40 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.414/18.414/18.414/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 39(67) bytes of data.
+[1759994510.720112] 47 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.122/19.122/19.122/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994510.915427] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.392/22.392/22.392/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994511.131733] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.611/20.611/20.611/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 42(70) bytes of data.
+[1759994511.339352] 50 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.945/22.945/22.945/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 36(64) bytes of data.
+[1759994511.599711] 44 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.013/25.013/25.013/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994511.808767] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.773/19.773/19.773/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 43(71) bytes of data.
+[1759994511.955608] 51 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.219/24.219/24.219/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994512.178538] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.872/25.872/25.872/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994512.391064] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.369/18.369/18.369/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 41(69) bytes of data.
+[1759994512.589905] 49 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.247/21.247/21.247/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994512.834310] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=26.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.953/25.953/25.953/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 84(112) bytes of data.
+[1759994513.065512] 92 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.507/18.507/18.507/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 42(70) bytes of data.
+[1759994513.189235] 50 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.640/28.640/28.640/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 61(89) bytes of data.
+[1759994513.378485] 69 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.030/16.030/16.030/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994513.633840] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=34.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 34.055/34.055/34.055/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 68(96) bytes of data.
+[1759994513.792060] 76 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=36.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 36.696/36.696/36.696/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 36(64) bytes of data.
+[1759994514.033596] 44 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.430/27.430/27.430/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 42(70) bytes of data.
+[1759994514.285429] 50 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.680/17.680/17.680/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 51(79) bytes of data.
+[1759994514.435492] 59 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=36.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 36.545/36.545/36.545/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994514.634579] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.778/16.778/16.778/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 78(106) bytes of data.
+[1759994514.902519] 86 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=31.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 31.478/31.478/31.478/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 44(72) bytes of data.
+[1759994515.132266] 52 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.282/21.282/21.282/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 94(122) bytes of data.
+[1759994515.406237] 102 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=31.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 31.059/31.059/31.059/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994515.641492] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.914/20.914/20.914/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 93(121) bytes of data.
+[1759994515.839615] 101 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.256/19.256/19.256/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 34(62) bytes of data.
+[1759994516.046830] 42 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.579/25.579/25.579/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 96(124) bytes of data.
+[1759994516.300787] 104 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.311/28.311/28.311/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 81(109) bytes of data.
+[1759994516.528458] 89 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.933/16.933/16.933/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 42(70) bytes of data.
+[1759994516.773642] 50 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.521/18.521/18.521/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994516.909203] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.156/15.156/15.156/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 47(75) bytes of data.
+[1759994517.099363] 55 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.525/20.525/20.525/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994517.283655] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.327/19.327/19.327/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 70(98) bytes of data.
+[1759994517.466240] 78 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.475/19.475/19.475/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 69(97) bytes of data.
+[1759994517.724206] 77 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.275/28.275/28.275/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 92(120) bytes of data.
+[1759994517.909615] 100 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.075/16.075/16.075/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 88(116) bytes of data.
+[1759994518.120450] 96 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.982/26.982/26.982/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 35(63) bytes of data.
+[1759994518.314165] 43 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.098/25.098/25.098/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 45(73) bytes of data.
+[1759994518.441488] 53 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=34.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 34.030/34.030/34.030/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 69(97) bytes of data.
+[1759994518.683873] 77 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.845/29.845/29.845/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 45(73) bytes of data.
+[1759994518.896074] 53 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.146/17.146/17.146/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994519.120437] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.608/20.608/20.608/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 39(67) bytes of data.
+[1759994519.250830] 47 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=39.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 39.101/39.101/39.101/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 64(92) bytes of data.
+[1759994519.464715] 72 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.115/25.115/25.115/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994519.683799] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.840/28.840/28.840/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 94(122) bytes of data.
+[1759994519.875659] 102 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.245/20.245/20.245/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 81(109) bytes of data.
+[1759994520.094498] 89 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.699/20.699/20.699/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994520.351646] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.676/20.676/20.676/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994520.563800] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.362/18.362/18.362/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 67(95) bytes of data.
+[1759994520.765099] 75 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.673/24.673/24.673/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 93(121) bytes of data.
+[1759994521.019298] 101 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.705/17.705/17.705/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 43(71) bytes of data.
+[1759994521.215071] 51 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.995/23.995/23.995/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 47(75) bytes of data.
+[1759994521.365047] 55 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.545/28.545/28.545/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 46(74) bytes of data.
+[1759994521.578828] 54 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.554/27.554/27.554/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 36(64) bytes of data.
+[1759994521.841078] 44 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.593/22.593/22.593/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994522.073779] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.012/19.012/19.012/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994522.343812] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.712/28.712/28.712/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 86(114) bytes of data.
+[1759994522.493562] 94 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=38.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 38.742/38.742/38.742/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994522.763715] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.742/28.742/28.742/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 77(105) bytes of data.
+[1759994522.975434] 85 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.139/15.139/15.139/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 83(111) bytes of data.
+[1759994523.118540] 91 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.310/28.310/28.310/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994523.384623] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.002/24.002/24.002/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 34(62) bytes of data.
+[1759994523.533806] 42 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=33.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 33.872/33.872/33.872/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994523.764581] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.777/18.777/18.777/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 59(87) bytes of data.
+[1759994523.946870] 67 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.095/18.095/18.095/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 45(73) bytes of data.
+[1759994524.158524] 53 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=26.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.456/26.456/26.456/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994524.395276] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.711/23.711/23.711/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 79(107) bytes of data.
+[1759994524.655919] 87 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.598/19.598/19.598/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 71(99) bytes of data.
+[1759994524.869793] 79 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.360/17.360/17.360/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 45(73) bytes of data.
+[1759994525.105822] 53 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.508/16.508/16.508/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994525.351422] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.521/20.521/20.521/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994525.605648] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.383/18.383/18.383/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 73(101) bytes of data.
+[1759994525.864951] 81 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.662/20.662/20.662/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994526.079302] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.328/24.328/24.328/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 90(118) bytes of data.
+[1759994526.271095] 98 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.610/19.610/19.610/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 72(100) bytes of data.
+[1759994526.540833] 80 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.734/29.734/29.734/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 85(113) bytes of data.
+[1759994526.744775] 93 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.640/16.640/16.640/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994526.986651] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.929/17.929/17.929/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 88(116) bytes of data.
+[1759994527.211726] 96 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.611/21.611/21.611/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 35(63) bytes of data.
+[1759994527.330650] 43 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.013/30.013/30.013/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994527.583578] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.162/22.162/22.162/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 32(60) bytes of data.
+[1759994527.848946] 40 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.625/30.625/30.625/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 96(124) bytes of data.
+[1759994528.080289] 104 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.290/29.290/29.290/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 70(98) bytes of data.
+[1759994528.325135] 78 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.737/16.737/16.737/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 86(114) bytes of data.
+[1759994528.558319] 94 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.961/24.961/24.961/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 81(109) bytes of data.
+[1759994528.745298] 89 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.973/18.973/18.973/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 91(119) bytes of data.
+[1759994529.000186] 99 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.229/25.229/25.229/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 83(111) bytes of data.
+[1759994529.196529] 91 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.078/22.078/22.078/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 40(68) bytes of data.
+[1759994529.387296] 48 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.172/25.172/25.172/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 34(62) bytes of data.
+[1759994529.625291] 42 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.594/30.594/30.594/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 49(77) bytes of data.
+[1759994529.888417] 57 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.124/24.124/24.124/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994530.033796] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.248/25.248/25.248/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 57(85) bytes of data.
+[1759994530.233880] 65 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.498/25.498/25.498/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 41(69) bytes of data.
+[1759994530.454646] 49 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.689/30.689/30.689/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 83(111) bytes of data.
+[1759994530.659073] 91 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.315/18.315/18.315/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994530.865557] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.130/18.130/18.130/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994531.125075] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.983/20.983/20.983/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994531.341882] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.270/30.270/30.270/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994531.473781] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.991/19.991/19.991/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 75(103) bytes of data.
+[1759994531.693464] 83 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.808/27.808/27.808/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994531.940138] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.551/22.551/22.551/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994532.069131] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.524/17.524/17.524/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994532.325433] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=31.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 31.641/31.641/31.641/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 33(61) bytes of data.
+[1759994532.456111] 41 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.954/21.954/21.954/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 95(123) bytes of data.
+[1759994532.705274] 103 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.810/22.810/22.810/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 43(71) bytes of data.
+[1759994532.907664] 51 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.190/22.190/22.190/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 80(108) bytes of data.
+[1759994533.121489] 88 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.986/21.986/21.986/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 53(81) bytes of data.
+[1759994533.314449] 61 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.960/20.960/20.960/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 50(78) bytes of data.
+[1759994533.498425] 58 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.684/15.684/15.684/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 73(101) bytes of data.
+[1759994533.743608] 81 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.804/25.804/25.804/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 61(89) bytes of data.
+[1759994534.003955] 69 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.315/21.315/21.315/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 50(78) bytes of data.
+[1759994534.241881] 58 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.835/19.835/19.835/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 46(74) bytes of data.
+[1759994534.471156] 54 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.914/15.914/15.914/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994534.698657] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=14.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 14.585/14.585/14.585/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 47(75) bytes of data.
+[1759994534.805751] 55 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.293/16.293/16.293/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 82(110) bytes of data.
+[1759994534.989236] 90 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.516/19.516/19.516/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994535.229739] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.712/21.712/21.712/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 42(70) bytes of data.
+[1759994535.369071] 50 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.649/28.649/28.649/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 43(71) bytes of data.
+[1759994535.630801] 51 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.140/21.140/21.140/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 37(65) bytes of data.
+[1759994535.766011] 45 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.520/24.520/24.520/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994535.985748] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.029/21.029/21.029/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 37(65) bytes of data.
+[1759994536.224870] 45 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.226/16.226/16.226/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 46(74) bytes of data.
+[1759994536.455239] 54 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.606/19.606/19.606/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 75(103) bytes of data.
+[1759994536.675680] 83 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.879/17.879/17.879/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994536.900543] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.044/17.044/17.044/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994537.131390] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.342/18.342/18.342/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 90(118) bytes of data.
+[1759994537.365650] 98 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.547/20.547/20.547/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 39(67) bytes of data.
+[1759994537.581176] 47 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.433/19.433/19.433/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 92(120) bytes of data.
+[1759994537.813826] 100 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.686/15.686/15.686/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994538.015202] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.197/20.197/20.197/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 69(97) bytes of data.
+[1759994538.253136] 77 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.158/21.158/21.158/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 82(110) bytes of data.
+[1759994538.450379] 90 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.831/17.831/17.831/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 73(101) bytes of data.
+[1759994538.641947] 81 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=26.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.015/26.015/26.015/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 33(61) bytes of data.
+[1759994538.830666] 41 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.884/16.884/16.884/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 64(92) bytes of data.
+[1759994539.053506] 72 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.659/18.659/18.659/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994539.196485] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.834/23.834/23.834/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 49(77) bytes of data.
+[1759994539.460552] 57 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.854/23.854/23.854/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 82(110) bytes of data.
+[1759994539.647690] 90 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.913/22.913/22.913/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 51(79) bytes of data.
+[1759994539.892707] 59 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.158/30.158/30.158/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 90(118) bytes of data.
+[1759994540.130360] 98 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.088/17.088/17.088/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 77(105) bytes of data.
+[1759994540.359189] 85 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.660/16.660/16.660/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 72(100) bytes of data.
+[1759994540.585707] 80 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.040/20.040/20.040/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 37(65) bytes of data.
+[1759994540.844988] 45 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.171/18.171/18.171/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 73(101) bytes of data.
+[1759994541.073681] 81 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.605/17.605/17.605/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994541.313911] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.417/20.417/20.417/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 44(72) bytes of data.
+[1759994541.556739] 52 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.984/17.984/17.984/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 75(103) bytes of data.
+[1759994541.752075] 83 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.929/22.929/22.929/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994541.980069] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.798/17.798/17.798/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994542.204689] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.084/22.084/22.084/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 76(104) bytes of data.
+[1759994542.418865] 84 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.299/17.299/17.299/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 35(63) bytes of data.
+[1759994542.613304] 43 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.180/15.180/15.180/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 53(81) bytes of data.
+[1759994542.872669] 61 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=33.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 33.405/33.405/33.405/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 95(123) bytes of data.
+[1759994543.059241] 103 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.420/15.420/15.420/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994543.311269] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.493/17.493/17.493/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 41(69) bytes of data.
+[1759994543.547012] 49 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.513/30.513/30.513/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 72(100) bytes of data.
+[1759994543.785719] 80 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.264/19.264/19.264/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 69(97) bytes of data.
+[1759994544.013769] 77 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=13.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 13.298/13.298/13.298/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 70(98) bytes of data.
+[1759994544.228902] 78 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.724/15.724/15.724/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 44(72) bytes of data.
+[1759994544.438946] 52 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.776/19.776/19.776/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 85(113) bytes of data.
+[1759994544.629339] 93 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.473/18.473/18.473/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 89(117) bytes of data.
+[1759994544.815454] 97 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.995/18.995/18.995/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 89(117) bytes of data.
+[1759994545.031334] 97 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.098/20.098/20.098/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 43(71) bytes of data.
+[1759994545.165286] 51 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=26.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.742/26.742/26.742/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 85(113) bytes of data.
+[1759994545.360618] 93 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.832/24.832/24.832/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994545.610540] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.982/21.982/21.982/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 70(98) bytes of data.
+[1759994545.873759] 78 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.985/26.985/26.985/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 95(123) bytes of data.
+[1759994546.078768] 103 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.343/22.343/22.343/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 82(110) bytes of data.
+[1759994546.203821] 90 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.952/15.952/15.952/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 72(100) bytes of data.
+[1759994546.470991] 80 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.072/27.072/27.072/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994546.723479] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.488/15.488/15.488/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 70(98) bytes of data.
+[1759994546.944176] 78 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.663/29.663/29.663/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994547.128365] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.363/19.363/19.363/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 65(93) bytes of data.
+[1759994547.342532] 73 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.293/21.293/21.293/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 54(82) bytes of data.
+[1759994547.529817] 62 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.506/18.506/18.506/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 69(97) bytes of data.
+[1759994547.798434] 77 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.137/27.137/27.137/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 80(108) bytes of data.
+[1759994548.025555] 88 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.531/25.531/25.531/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 45(73) bytes of data.
+[1759994548.220261] 53 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.847/16.847/16.847/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 79(107) bytes of data.
+[1759994548.415541] 87 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.228/28.228/28.228/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 59(87) bytes of data.
+[1759994548.650129] 67 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.355/28.355/28.355/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994548.876033] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.619/18.619/18.619/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994549.084931] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.763/20.763/20.763/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 73(101) bytes of data.
+[1759994549.326735] 81 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.058/20.058/20.058/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 64(92) bytes of data.
+[1759994549.449262] 72 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.739/15.739/15.739/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 94(122) bytes of data.
+[1759994549.650836] 102 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.181/18.181/18.181/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 80(108) bytes of data.
+[1759994549.859447] 88 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.953/17.953/17.953/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 69(97) bytes of data.
+[1759994550.119802] 77 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.735/24.735/24.735/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 49(77) bytes of data.
+[1759994550.321812] 57 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.963/20.963/20.963/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 88(116) bytes of data.
+[1759994550.546106] 96 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.250/21.250/21.250/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 64(92) bytes of data.
+[1759994550.813918] 72 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.916/25.916/25.916/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 46(74) bytes of data.
+[1759994551.073277] 54 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.562/22.562/22.562/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994551.303816] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.244/19.244/19.244/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 96(124) bytes of data.
+[1759994551.557215] 104 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.502/18.502/18.502/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994551.786981] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.855/22.855/22.855/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994552.025840] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.891/20.891/20.891/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 80(108) bytes of data.
+[1759994552.217934] 88 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.671/24.671/24.671/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 37(65) bytes of data.
+[1759994552.421175] 45 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.399/17.399/17.399/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 75(103) bytes of data.
+[1759994552.540018] 83 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.573/24.573/24.573/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 88(116) bytes of data.
+[1759994552.750966] 96 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.232/20.232/20.232/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994552.970025] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.903/21.903/21.903/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 39(67) bytes of data.
+[1759994553.185613] 47 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.443/20.443/20.443/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994553.448207] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.334/24.334/24.334/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 49(77) bytes of data.
+[1759994553.667077] 57 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.957/22.957/22.957/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 50(78) bytes of data.
+[1759994553.883741] 58 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.272/17.272/17.272/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 44(72) bytes of data.
+[1759994554.092975] 52 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.286/23.286/23.286/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 81(109) bytes of data.
+[1759994554.326969] 89 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.855/17.855/17.855/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 35(63) bytes of data.
+[1759994554.591540] 43 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=31.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 31.324/31.324/31.324/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 44(72) bytes of data.
+[1759994554.809843] 52 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.128/27.128/27.128/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 39(67) bytes of data.
+[1759994555.028760] 47 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.580/25.580/25.580/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994555.290907] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.377/24.377/24.377/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994555.545502] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.949/18.949/18.949/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 71(99) bytes of data.
+[1759994555.804892] 79 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.047/21.047/21.047/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 96(124) bytes of data.
+[1759994556.003137] 104 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.819/29.819/29.819/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 34(62) bytes of data.
+[1759994556.183810] 42 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.883/15.883/15.883/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 61(89) bytes of data.
+[1759994556.305161] 69 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.762/21.762/21.762/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 50(78) bytes of data.
+[1759994556.568737] 58 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.967/23.967/23.967/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994556.838849] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.269/28.269/28.269/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 94(122) bytes of data.
+[1759994557.055221] 102 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.212/27.212/27.212/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 51(79) bytes of data.
+[1759994557.255763] 59 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.582/21.582/21.582/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 70(98) bytes of data.
+[1759994557.518328] 78 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.849/25.849/25.849/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994557.745266] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.144/19.144/19.144/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994557.959438] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.800/23.800/23.800/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994558.221539] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.586/27.586/27.586/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 83(111) bytes of data.
+[1759994558.455529] 91 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.252/20.252/20.252/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994558.646169] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.841/22.841/22.841/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 82(110) bytes of data.
+[1759994558.863961] 90 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.985/16.985/16.985/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 90(118) bytes of data.
+[1759994559.123876] 98 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.586/18.586/18.586/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994559.365543] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.286/21.286/21.286/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 67(95) bytes of data.
+[1759994559.595910] 75 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.570/19.570/19.570/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 80(108) bytes of data.
+[1759994559.839152] 88 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.593/17.593/17.593/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 71(99) bytes of data.
+[1759994559.955640] 79 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.925/27.925/27.925/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 86(114) bytes of data.
+[1759994560.179352] 94 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.809/21.809/21.809/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 59(87) bytes of data.
+[1759994560.375838] 67 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.344/20.344/20.344/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 75(103) bytes of data.
+[1759994560.563861] 83 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.837/15.837/15.837/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 46(74) bytes of data.
+[1759994560.763915] 54 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.571/30.571/30.571/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 67(95) bytes of data.
+[1759994561.028237] 75 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.397/29.397/29.397/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 65(93) bytes of data.
+[1759994561.271615] 73 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.516/20.516/20.516/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 68(96) bytes of data.
+[1759994561.493715] 76 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.259/18.259/18.259/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 71(99) bytes of data.
+[1759994561.690965] 79 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.186/17.186/17.186/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 50(78) bytes of data.
+[1759994561.828218] 58 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.341/21.341/21.341/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 65(93) bytes of data.
+[1759994562.075632] 73 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.282/25.282/25.282/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 41(69) bytes of data.
+[1759994562.298271] 49 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.669/27.669/27.669/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 90(118) bytes of data.
+[1759994562.518399] 98 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.187/28.187/28.187/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994562.643910] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.895/19.895/19.895/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 36(64) bytes of data.
+[1759994562.842308] 44 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.468/18.468/18.468/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 71(99) bytes of data.
+[1759994563.078787] 79 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.011/20.011/20.011/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 76(104) bytes of data.
+[1759994563.275423] 84 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.386/17.386/17.386/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 40(68) bytes of data.
+[1759994563.518324] 48 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.950/16.950/16.950/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 62(90) bytes of data.
+[1759994563.787973] 70 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=31.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 31.793/31.793/31.793/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 49(77) bytes of data.
+[1759994564.013160] 57 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.838/18.838/18.838/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 85(113) bytes of data.
+[1759994564.211678] 93 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.963/26.963/26.963/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 86(114) bytes of data.
+[1759994564.421134] 94 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.863/29.863/29.863/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994564.721535] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=77.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 77.439/77.439/77.439/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 67(95) bytes of data.
+[1759994564.912546] 75 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.183/19.183/19.183/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 35(63) bytes of data.
+[1759994565.170131] 43 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.100/18.100/18.100/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994565.310112] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.569/30.569/30.569/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994565.568559] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.172/24.172/24.172/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 62(90) bytes of data.
+[1759994565.767618] 70 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.193/20.193/20.193/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 71(99) bytes of data.
+[1759994565.970723] 79 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.845/17.845/17.845/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994566.205775] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.444/17.444/17.444/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 39(67) bytes of data.
+[1759994566.403854] 47 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.737/18.737/18.737/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 89(117) bytes of data.
+[1759994566.613801] 97 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=13.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 13.339/13.339/13.339/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 59(87) bytes of data.
+[1759994566.793847] 67 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.259/16.259/16.259/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994567.011800] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.912/21.912/21.912/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 42(70) bytes of data.
+[1759994567.219620] 50 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.590/16.590/16.590/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 57(85) bytes of data.
+[1759994567.338054] 65 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=33.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 33.862/33.862/33.862/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 54(82) bytes of data.
+[1759994567.563743] 62 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.957/21.957/21.957/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994567.819166] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=31.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 31.825/31.825/31.825/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 77(105) bytes of data.
+[1759994568.015583] 85 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.058/23.058/23.058/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 68(96) bytes of data.
+[1759994568.264849] 76 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.459/19.459/19.459/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 35(63) bytes of data.
+[1759994568.470723] 43 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.226/28.226/28.226/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 72(100) bytes of data.
+[1759994568.672207] 80 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.036/20.036/20.036/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 36(64) bytes of data.
+[1759994568.874323] 44 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=26.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.915/26.915/26.915/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 71(99) bytes of data.
+[1759994569.061711] 79 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.942/17.942/17.942/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 86(114) bytes of data.
+[1759994569.309752] 94 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.481/24.481/24.481/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 57(85) bytes of data.
+[1759994569.554910] 65 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.755/20.755/20.755/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994569.795650] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.357/19.357/19.357/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 88(116) bytes of data.
+[1759994570.028929] 96 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.596/19.596/19.596/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 45(73) bytes of data.
+[1759994570.289945] 53 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.996/17.996/17.996/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 57(85) bytes of data.
+[1759994570.488075] 65 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.479/16.479/16.479/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994570.731178] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.218/20.218/20.218/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 80(108) bytes of data.
+[1759994570.947293] 88 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.952/18.952/18.952/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 67(95) bytes of data.
+[1759994571.185264] 75 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.332/21.332/21.332/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994571.439591] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.143/22.143/22.143/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994571.667017] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.518/20.518/20.518/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994571.869568] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.814/19.814/19.814/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 72(100) bytes of data.
+[1759994572.061218] 80 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.697/20.697/20.697/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994572.258737] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.181/25.181/25.181/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 51(79) bytes of data.
+[1759994572.500382] 59 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.676/18.676/18.676/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 90(118) bytes of data.
+[1759994572.763765] 98 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.796/28.796/28.796/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 61(89) bytes of data.
+[1759994572.981502] 69 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=45.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 45.227/45.227/45.227/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 90(118) bytes of data.
+[1759994573.243846] 98 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.745/29.745/29.745/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 36(64) bytes of data.
+[1759994573.443817] 44 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.011/18.011/18.011/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 92(120) bytes of data.
+[1759994573.590355] 100 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.230/29.230/29.230/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 49(77) bytes of data.
+[1759994573.793613] 57 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.877/16.877/16.877/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 37(65) bytes of data.
+[1759994573.992272] 45 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.362/21.362/21.362/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 70(98) bytes of data.
+[1759994574.225675] 78 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.920/19.920/19.920/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994574.483734] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.123/17.123/17.123/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 85(113) bytes of data.
+[1759994574.699105] 93 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.758/21.758/21.758/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 64(92) bytes of data.
+[1759994574.895783] 72 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.107/17.107/17.107/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994575.028165] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.262/15.262/15.262/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994575.268690] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.628/20.628/20.628/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 92(120) bytes of data.
+[1759994575.466072] 100 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.543/19.543/19.543/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994575.706225] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.818/17.818/17.818/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 84(112) bytes of data.
+[1759994575.911359] 92 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.899/24.899/24.899/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 95(123) bytes of data.
+[1759994576.151289] 103 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.433/18.433/18.433/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 50(78) bytes of data.
+[1759994576.419932] 58 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.605/28.605/28.605/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994576.649375] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.301/17.301/17.301/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 45(73) bytes of data.
+[1759994576.775178] 53 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.922/21.922/21.922/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 77(105) bytes of data.
+[1759994577.028673] 85 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.596/19.596/19.596/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 47(75) bytes of data.
+[1759994577.283821] 55 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.384/29.384/29.384/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 39(67) bytes of data.
+[1759994577.519978] 47 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.760/17.760/17.760/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994577.753958] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=35.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 35.497/35.497/35.497/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 48(76) bytes of data.
+[1759994577.971461] 56 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.693/18.693/18.693/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 67(95) bytes of data.
+[1759994578.183620] 75 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.259/19.259/19.259/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 91(119) bytes of data.
+[1759994578.399033] 99 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.231/20.231/20.231/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994578.649812] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.579/21.579/21.579/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 72(100) bytes of data.
+[1759994578.849244] 80 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.366/15.366/15.366/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 33(61) bytes of data.
+[1759994579.099224] 41 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.393/16.393/16.393/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994579.340448] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.246/30.246/30.246/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 42(70) bytes of data.
+[1759994579.600000] 50 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.776/16.776/16.776/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 35(63) bytes of data.
+[1759994579.806270] 43 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=39.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 39.358/39.358/39.358/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 68(96) bytes of data.
+[1759994580.050921] 76 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.410/27.410/27.410/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 47(75) bytes of data.
+[1759994580.249686] 55 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=14.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 14.755/14.755/14.755/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 94(122) bytes of data.
+[1759994580.475133] 102 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.497/17.497/17.497/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 70(98) bytes of data.
+[1759994580.707335] 78 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=26.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.347/26.347/26.347/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 62(90) bytes of data.
+[1759994580.931412] 70 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.382/21.382/21.382/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 76(104) bytes of data.
+[1759994581.173854] 84 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.727/16.727/16.727/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 75(103) bytes of data.
+[1759994581.376824] 83 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.681/23.681/23.681/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994581.614586] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.087/19.087/19.087/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 57(85) bytes of data.
+[1759994581.858727] 65 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.060/29.060/29.060/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 65(93) bytes of data.
+[1759994582.110969] 73 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.945/27.945/27.945/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 87(115) bytes of data.
+[1759994582.319772] 95 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.405/22.405/22.405/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 73(101) bytes of data.
+[1759994582.572424] 81 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.006/20.006/20.006/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994582.760109] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.698/19.698/19.698/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 61(89) bytes of data.
+[1759994582.888517] 69 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.878/25.878/25.878/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 82(110) bytes of data.
+[1759994583.145092] 90 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.597/30.597/30.597/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994583.413293] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=34.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 34.078/34.078/34.078/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 41(69) bytes of data.
+[1759994583.650162] 49 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.103/21.103/21.103/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994583.850160] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.130/21.130/21.130/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 79(107) bytes of data.
+[1759994584.049680] 87 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.207/16.207/16.207/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 46(74) bytes of data.
+[1759994584.306693] 54 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=26.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.913/26.913/26.913/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994584.504347] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.472/20.472/20.472/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 40(68) bytes of data.
+[1759994584.721811] 48 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.222/22.222/22.222/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 89(117) bytes of data.
+[1759994584.974498] 97 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.082/24.082/24.082/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 43(71) bytes of data.
+[1759994585.189754] 51 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.696/15.696/15.696/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994585.445182] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.606/18.606/18.606/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994585.640761] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.720/24.720/24.720/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 39(67) bytes of data.
+[1759994585.864933] 47 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.523/20.523/20.523/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 35(63) bytes of data.
+[1759994586.071387] 43 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.870/20.870/20.870/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 68(96) bytes of data.
+[1759994586.203287] 76 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=41.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 41.149/41.149/41.149/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 91(119) bytes of data.
+[1759994586.419589] 99 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.977/24.977/24.977/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 89(117) bytes of data.
+[1759994586.640021] 97 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.469/23.469/23.469/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 68(96) bytes of data.
+[1759994586.847643] 76 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.191/22.191/22.191/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 91(119) bytes of data.
+[1759994587.095835] 99 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.546/29.546/29.546/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 47(75) bytes of data.
+[1759994587.363894] 55 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.692/27.692/27.692/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 80(108) bytes of data.
+[1759994587.512069] 88 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=32.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 32.511/32.511/32.511/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 40(68) bytes of data.
+[1759994587.713614] 48 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.806/15.806/15.806/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 68(96) bytes of data.
+[1759994587.918710] 76 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 14.994/14.994/14.994/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 54(82) bytes of data.
+[1759994588.115417] 62 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.901/15.901/15.901/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 33(61) bytes of data.
+[1759994588.384203] 41 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.125/28.125/28.125/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 41(69) bytes of data.
+[1759994588.609229] 49 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.709/17.709/17.709/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 42(70) bytes of data.
+[1759994588.807873] 50 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.542/24.542/24.542/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 92(120) bytes of data.
+[1759994589.049365] 100 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.730/15.730/15.730/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 76(104) bytes of data.
+[1759994589.235219] 84 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.113/19.113/19.113/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994589.429188] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.417/19.417/19.417/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 72(100) bytes of data.
+[1759994589.692912] 80 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=32.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 32.756/32.756/32.756/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 80(108) bytes of data.
+[1759994589.887415] 88 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.981/19.981/19.981/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 62(90) bytes of data.
+[1759994590.099068] 70 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.617/15.617/15.617/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994590.354068] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.464/18.464/18.464/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 37(65) bytes of data.
+[1759994590.611733] 45 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.425/17.425/17.425/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 32(60) bytes of data.
+[1759994590.867122] 40 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.775/20.775/20.775/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994591.131233] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.624/28.624/28.624/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994591.373881] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.807/15.807/15.807/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 90(118) bytes of data.
+[1759994591.616104] 98 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.757/20.757/20.757/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 32(60) bytes of data.
+[1759994591.812246] 40 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.897/22.897/22.897/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 76(104) bytes of data.
+[1759994591.941007] 84 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.353/30.353/30.353/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 79(107) bytes of data.
+[1759994592.159616] 87 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.123/23.123/23.123/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 59(87) bytes of data.
+[1759994592.359113] 67 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.203/19.203/19.203/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 32(60) bytes of data.
+[1759994592.625192] 40 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.569/20.569/20.569/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 83(111) bytes of data.
+[1759994592.873804] 91 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.956/17.956/17.956/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 36(64) bytes of data.
+[1759994593.091731] 44 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.383/17.383/17.383/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 53(81) bytes of data.
+[1759994593.292535] 61 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.253/23.253/23.253/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 46(74) bytes of data.
+[1759994593.543251] 54 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.455/21.455/21.455/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 40(68) bytes of data.
+[1759994593.743820] 48 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.069/17.069/17.069/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 71(99) bytes of data.
+[1759994594.000834] 79 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.940/16.940/16.940/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 93(121) bytes of data.
+[1759994594.125350] 101 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=31.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 31.461/31.461/31.461/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 89(117) bytes of data.
+[1759994594.331007] 97 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.328/22.328/22.328/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994594.570368] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.641/15.641/15.641/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 85(113) bytes of data.
+[1759994594.708766] 93 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.994/27.994/27.994/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 37(65) bytes of data.
+[1759994594.846314] 45 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.451/25.451/25.451/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 59(87) bytes of data.
+[1759994595.105661] 67 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=32.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 32.126/32.126/32.126/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 44(72) bytes of data.
+[1759994595.311496] 52 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.249/20.249/20.249/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 75(103) bytes of data.
+[1759994595.428849] 83 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.542/19.542/19.542/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994595.656586] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.724/27.724/27.724/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 66(94) bytes of data.
+[1759994595.859984] 74 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.257/15.257/15.257/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 42(70) bytes of data.
+[1759994596.118736] 50 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.402/20.402/20.402/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 94(122) bytes of data.
+[1759994596.229197] 102 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.555/23.555/23.555/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 33(61) bytes of data.
+[1759994596.488177] 41 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.687/24.687/24.687/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 50(78) bytes of data.
+[1759994596.738519] 58 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.066/29.066/29.066/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 36(64) bytes of data.
+[1759994596.993630] 44 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.508/23.508/23.508/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 59(87) bytes of data.
+[1759994597.189277] 67 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.620/18.620/18.620/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 32(60) bytes of data.
+[1759994597.380284] 40 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.715/17.715/17.715/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 93(121) bytes of data.
+[1759994597.585308] 101 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.175/18.175/18.175/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 41(69) bytes of data.
+[1759994597.785930] 49 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.516/18.516/18.516/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 95(123) bytes of data.
+[1759994598.033913] 103 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=33.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 33.156/33.156/33.156/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 76(104) bytes of data.
+[1759994598.273436] 84 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.336/16.336/16.336/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 76(104) bytes of data.
+[1759994598.498902] 84 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.258/22.258/22.258/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 78(106) bytes of data.
+[1759994598.629098] 86 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.308/29.308/29.308/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 94(122) bytes of data.
+[1759994598.859387] 102 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.952/20.952/20.952/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 84(112) bytes of data.
+[1759994599.113024] 92 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.814/22.814/22.814/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 96(124) bytes of data.
+[1759994599.329368] 104 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=39.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 39.365/39.365/39.365/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 93(121) bytes of data.
+[1759994599.539647] 101 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.012/19.012/19.012/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994599.720444] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.590/16.590/16.590/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 77(105) bytes of data.
+[1759994599.954647] 85 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.189/20.189/20.189/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 46(74) bytes of data.
+[1759994600.211194] 54 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=24.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.074/24.074/24.074/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 51(79) bytes of data.
+[1759994600.429510] 59 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=20.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 20.165/20.165/20.165/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994600.678164] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.974/17.974/17.974/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 78(106) bytes of data.
+[1759994600.928642] 86 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.823/25.823/25.823/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 43(71) bytes of data.
+[1759994601.129762] 51 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=32.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 32.774/32.774/32.774/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 40(68) bytes of data.
+[1759994601.259904] 48 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.164/23.164/23.164/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 60(88) bytes of data.
+[1759994601.481211] 68 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=39.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 39.402/39.402/39.402/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 56(84) bytes of data.
+[1759994601.621651] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.418/17.418/17.418/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994601.860127] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.672/28.672/28.672/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 79(107) bytes of data.
+[1759994602.111240] 87 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=32.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 32.595/32.595/32.595/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 65(93) bytes of data.
+[1759994602.331705] 73 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.141/25.141/25.141/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 49(77) bytes of data.
+[1759994602.598847] 57 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.298/29.298/29.298/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 45(73) bytes of data.
+[1759994602.838830] 53 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.481/18.481/18.481/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 40(68) bytes of data.
+[1759994603.088150] 48 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.051/15.051/15.051/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 41(69) bytes of data.
+[1759994603.319484] 49 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.782/28.782/28.782/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 90(118) bytes of data.
+[1759994603.520191] 98 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.573/22.573/22.573/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 77(105) bytes of data.
+[1759994603.725474] 85 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.179/17.179/17.179/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994603.909336] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.844/17.844/17.844/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 55(83) bytes of data.
+[1759994604.138750] 63 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=15.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.194/15.194/15.194/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994604.393926] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.229/17.229/17.229/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 53(81) bytes of data.
+[1759994604.529030] 61 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.860/21.860/21.860/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994604.747314] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.757/21.757/21.757/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 52(80) bytes of data.
+[1759994604.883898] 60 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.209/22.209/22.209/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 79(107) bytes of data.
+[1759994605.029837] 87 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=26.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 26.122/26.122/26.122/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 63(91) bytes of data.
+[1759994605.238220] 71 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=23.4 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.446/23.446/23.446/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 92(120) bytes of data.
+[1759994605.365396] 100 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.805/18.805/18.805/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 95(123) bytes of data.
+[1759994605.608618] 103 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.854/21.854/21.854/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 54(82) bytes of data.
+[1759994605.803902] 62 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.211/17.211/17.211/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 39(67) bytes of data.
+[1759994606.018975] 47 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.0 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.027/18.027/18.027/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 74(102) bytes of data.
+[1759994606.166017] 82 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=31.5 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 31.452/31.452/31.452/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 50(78) bytes of data.
+[1759994606.413908] 58 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=25.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 25.608/25.608/25.608/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 51(79) bytes of data.
+[1759994606.658544] 59 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=30.3 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 30.289/30.289/30.289/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 53(81) bytes of data.
+[1759994606.892383] 61 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=21.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.827/21.827/21.827/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 47(75) bytes of data.
+[1759994607.126059] 55 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.135/18.135/18.135/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 83(111) bytes of data.
+[1759994607.371739] 91 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.796/18.796/18.796/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 49(77) bytes of data.
+[1759994607.632340] 57 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.849/22.849/22.849/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 33(61) bytes of data.
+[1759994607.886223] 41 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=18.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.596/18.596/18.596/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 58(86) bytes of data.
+[1759994608.134369] 66 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=34.2 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 34.154/34.154/34.154/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 38(66) bytes of data.
+[1759994608.341013] 46 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.899/19.899/19.899/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 77(105) bytes of data.
+[1759994608.597487] 85 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=19.1 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.090/19.090/19.090/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 83(111) bytes of data.
+[1759994608.834271] 91 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=17.7 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.729/17.729/17.729/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 77(105) bytes of data.
+[1759994609.070063] 85 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=29.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.619/29.619/29.619/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 93(121) bytes of data.
+[1759994609.335420] 101 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=27.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 27.794/27.794/27.794/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 43(71) bytes of data.
+[1759994609.563990] 51 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.858/22.858/22.858/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 49(77) bytes of data.
+[1759994609.769753] 57 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=22.6 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.588/22.588/22.588/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 35(63) bytes of data.
+[1759994610.013328] 43 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=16.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 16.799/16.799/16.799/0.000 ms
+PING 8.8.8.8 (8.8.8.8) from 10.45.0.27 uesimtun0: 67(95) bytes of data.
+[1759994610.152556] 75 bytes from 8.8.8.8: icmp_seq=1 ttl=113 time=28.9 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 28.904/28.904/28.904/0.000 ms
