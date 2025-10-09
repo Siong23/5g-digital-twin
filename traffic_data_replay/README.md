@@ -1,4 +1,4 @@
-# How to Use?
+# How to use?
 
 To replay a data traffic, you must first retrieve a traffic data file from physical network. You can retrieve it using the **open5gs_twinning_agent.py** on the
 twinning agent to retrieve the traffic file needed.
