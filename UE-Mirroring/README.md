@@ -1,4 +1,4 @@
-# How to Use?
+# How to use?
 ## ue_listner.py
 
 User will need to run this on their UERANSIM UE. This python code is required to run together with **open5gs_log_listner.py** on the twinning agent. This python code
