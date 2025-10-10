@@ -43,9 +43,7 @@ not exactly the same but rather similar of how it will look like on the physical
 
 ### inject_attacks.py
 
-It is used to inject network attack while running traffic replay on the UERANSIM UE. It will start network attacks based on the mode you selected on. User can learn more information of how to use it by typing **inject_attacks.py -h**.
-
-Note: is not advisable to run **inject_attacks.py --scenario severe** as it have high chance to crash the link on UERANSIM.
+It is used to inject network attack while running traffic replay on the UERANSIM UE. It will start network attacks based on the mode you selected on. User can learn more information of how to use it by typing **inject_attacks.py -h**. A network failure prevention detection will come out when facing extreme attack and it will slow down the network attack when needed. 
 
 ## collect_ndt_run.sh
 
