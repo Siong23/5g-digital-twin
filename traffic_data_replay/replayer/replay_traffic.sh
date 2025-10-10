@@ -1,10 +1,7 @@
 #!/bin/bash
 # Auto-generated NDT Traffic Replay Script
-# Based on physical network capture from /home/open5gs/Desktop/traffic_data_replay/run20251009_114233
-# Generated: 2025-10-09 15:20:25.656879
-# Auto-generated NDT Traffic Replay Script
-# Based on physical network capture from /home/open5gs/Desktop/traffic_data_replay/run20251009_114233
-# Generated: 2025-10-09 15:20:25.656928
+# Based on physical network capture from run20251010_125936
+# Generated: 2025-10-10 13:51:39.358180
 
 set -e
 
