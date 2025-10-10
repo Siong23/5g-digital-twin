@@ -1,5 +1,5 @@
 # How to use?
-## ue_listner.py
+## ue_listener.py
 
 User will need to run this on their UERANSIM UE. This python code is required to run together with **open5gs_log_listner.py** on the twinning agent. This python code
 is mainly used in mirroring the physical UE. It will receive a specific wording from the twinning agent and it will start/stop the virtual UE with the same IMSI
